@@ -3,7 +3,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$database = "phani's_exploria";
+$database = "repeat";
 
 $mycon= mysqli_connect($servername,$username,$password,$database);
 
